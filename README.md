@@ -12,4 +12,4 @@ The current repository contains supplementary material for the manuscript
 	
 by Joachim Nordmann, Marcus Aßmus, and Holm Altenbach. The program have been written in Matlab. 
 
-The user may run the main file visu_elastic_anisotropy.m in order to reproduce all examples presented [1].
+The user may run the main file visu_elastic_anisotropy.m in order to reproduce all examples presented in [1].
