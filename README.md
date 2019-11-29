@@ -28,3 +28,6 @@ When refering to the script in publications please cite as follows:
 	doi = {10.1007/s00161-018-0635-9}
 }
 ```
+
+## License
+See file 'LICENSE'.
