@@ -7,10 +7,10 @@ by Joachim Nordmann, Marcus Aßmus, and Holm Altenbach
 
 The current repository contains supplementary material for the manuscript
 
-[1] "Visualising elastic anisotropy: theoretical background and computational implementation" [DOI: 10.1007/s00161-018-0635-9](https://doi.org/10.1007/s00161-018-0635-9)
+[1] "**_Visualising elastic anisotropy: theoretical background and computational implementation_**" [DOI: 10.1007/s00161-018-0635-9](https://doi.org/10.1007/s00161-018-0635-9)
 
 	
-by Joachim Nordmann, Marcus Aßmus, and Holm Altenbach. The program have been written in Matlab. The user may run the main file visu_elastic_anisotropy.m in order to reproduce all examples presented in&nbsp;[1].
+by J. Nordmann, M. Aßmus, and H. Altenbach. The program have been written in Matlab. The user may run the main file visu_elastic_anisotropy.m in order to reproduce all examples presented in&nbsp;[1] and to create their own.
 
 ## Referencing
 
