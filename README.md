@@ -30,4 +30,4 @@ When refering to the script in publications please cite as follows:
 ```
 
 ## License
-See file 'LICENSE'.
+See file '[LICENSE](https://github.com/marcusassmus/visualising-elastic-anisotropy/blob/master/LICENSE)'.
