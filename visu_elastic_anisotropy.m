@@ -4,7 +4,7 @@
 %
 % Manuscript title: Visualising elastic anisotropy: theoretical background 
 % and computational implementation
-% Manuscript Authors: Joachim Nordmann, Marcus Aßmus, Holm Altenbach
+% Manuscript Authors: Joachim Nordmann, Marcus AÃŸmus, Holm Altenbach
 % DOI: 10.1007/s00161-018-0635-9
 %
 % Inputs: Cijkl (material parameters of the material chosen)
@@ -18,7 +18,7 @@
 %                   Germany
 % Website:          https://www.ifme.ovgu.de/ltm
 % Contact:          joachim.nordmann@ovgu.de
-%                   marcus.assmus@0vgu.de
+%                   marcus.assmus@ovgu.de
 %                   holm.altenbach@ovgu.de
 %
 % December 2017; Last revision: 28-November-2019
