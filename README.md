@@ -1,4 +1,4 @@
-# Visualising elastic anisotropy
+# Visualising Elastic Anisotropy
 by Joachim Nordmann, Marcus Aßmus, and Holm Altenbach
 
 [Research group website](https://www.ifme.ovgu.de/ifme/en/cem.html)
