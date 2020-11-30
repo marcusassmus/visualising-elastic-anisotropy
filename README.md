@@ -30,4 +30,6 @@ When refering to the script in publications please cite as follows:
 ```
 
 ## License
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
+
 See file '[LICENSE](https://github.com/marcusassmus/visualising-elastic-anisotropy/blob/master/LICENSE)'.
