@@ -1,4 +1,4 @@
-# Visualising Elastic Anisotropy [![Website](https://img.shields.io/website?style=flat-square&up_color=gold&up_message=Visualising-Elasting-Anisotropy&url=https%3A%2F%2Fmarcusassmus.github.io/visualising-elastic-anisotropy/)](https://marcusassmus.github.io/visualising-elastic-anisotropy/)
+# Visualising Elastic Anisotropy [![Website](https://img.shields.io/website?style=flat-square&up_color=gold&up_message=Visualising-Elastic-Anisotropy&url=https%3A%2F%2Fmarcusassmus.github.io/visualising-elastic-anisotropy/)](https://marcusassmus.github.io/visualising-elastic-anisotropy/)
 by Joachim Nordmann, Marcus Aßmus, and Holm Altenbach
 
 [Research group website](https://www.ifme.ovgu.de/ifme/en/cem.html)
