@@ -1,8 +1,13 @@
 title: Software
 author: Marcus Aßmus
 description: software for the visualisation of elastic anisotropy
+keywords: elastic anisotropy, materials science, MATLAB, solid mechanics, Young's modulus, bulk modulus, shear modulus, Poisson's ratio, crystal symmetry
 logo: logo.png
 show_downloads: true
 theme: jekyll-theme-minimal
 baseurl: "/visualising-elastic-anisotropy"
 url: "https://marcusassmus.github.io"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
